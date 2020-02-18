@@ -2,6 +2,10 @@
 - with version control
 - goal collaborate
 - work on projects from anywhere
-- next goal is learn branching
-- branch done
-- pull request done
+- master/trunk default branch
+- There's only one rule: anything in the master branch is always deployable.
+- branching
+- create branch, change in master
+- pull request trunk > branch (review and auto-merge)
+- pull request branch > trunk (review and auto-merge) ------- delete branch 
+- 
